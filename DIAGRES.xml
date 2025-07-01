@@ -185,7 +185,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tWCMHTFjFTY4z665_8qA" name="DIAGRES2">
-    <mxGraphModel dx="1559" dy="2468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1893" dy="2746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -323,30 +323,6 @@
         </mxCell>
         <mxCell id="1udJKJLeAIXtUMgUiedH-30" value="20 Télétravailleurs&#xa;Accès TS Web" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="140" y="120" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1udJKJLeAIXtUMgUiedH-31" value="LÉGENDE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=12;fontStyle=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="110" y="860" width="300" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="1udJKJLeAIXtUMgUiedH-32" value="Firewall" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="140" y="910" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1udJKJLeAIXtUMgUiedH-33" value="Serveur" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="140" y="940" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1udJKJLeAIXtUMgUiedH-34" value="VM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6f3ff;strokeColor=#0066cc;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="140" y="970" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1udJKJLeAIXtUMgUiedH-35" value="Switch" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="320" y="910" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1udJKJLeAIXtUMgUiedH-36" value="DMZ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="320" y="940" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1udJKJLeAIXtUMgUiedH-37" value="Production" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="320" y="970" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1udJKJLeAIXtUMgUiedH-38" value="&lt;div align=&quot;center&quot;&gt;INFORMATIONS RÉSEAU&lt;br&gt;&lt;br&gt;IP Publique: 82.227.120.16&lt;br&gt;&lt;br&gt;Redirections:&lt;br&gt;• 443 → 172.16.255.10 (Exchange)&lt;br&gt;• 25 → 172.16.255.10 (SMTP)&lt;br&gt;• 3389 → 172.16.255.20 (TS)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=10;fontStyle=0;verticalAlign=top;align=center;" parent="1" vertex="1">
-          <mxGeometry x="430" y="890" width="240" height="140" as="geometry" />
         </mxCell>
         <mxCell id="1udJKJLeAIXtUMgUiedH-39" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="1udJKJLeAIXtUMgUiedH-1" target="1udJKJLeAIXtUMgUiedH-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
