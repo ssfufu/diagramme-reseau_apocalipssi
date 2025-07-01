@@ -157,11 +157,14 @@
         <mxCell id="bvzsEkPsgqFwUyc6kUEJ-2" value="120 Postes fixes&#xa;+ Portables" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="147" y="574" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="T_WGK3-dRES4usY5SwQZ-1" value="&lt;font style=&quot;font-size: 64px;&quot;&gt;Infrastructure Originale&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="506" y="20" width="643" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="tWCMHTFjFTY4z665_8qA" name="DIAGRES2">
-    <mxGraphModel dx="2038" dy="1698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2650" dy="2208" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -172,16 +175,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1udJKJLeAIXtUMgUiedH-1" value="INTERNET" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="314" y="30" width="200" height="80" as="geometry" />
+          <mxGeometry x="302.5" y="160" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1udJKJLeAIXtUMgUiedH-2" value="PARIS - Siège Social&#xa;120 salariés" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontStyle=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="40" y="520" width="700" height="600" as="geometry" />
+          <mxGeometry x="40" y="520" width="720" height="600" as="geometry" />
         </mxCell>
         <mxCell id="1udJKJLeAIXtUMgUiedH-3" value="2x&amp;nbsp;&lt;strong&gt;Fortigate 300E&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="310" y="560" width="140" height="60" as="geometry" />
+          <mxGeometry x="170" y="555" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1udJKJLeAIXtUMgUiedH-5" value="Réseau Production Paris&#xa;172.16.0.0/22" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="65" y="650" width="655" height="450" as="geometry" />
+          <mxGeometry x="65" y="650" width="675" height="450" as="geometry" />
         </mxCell>
         <mxCell id="1udJKJLeAIXtUMgUiedH-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1udJKJLeAIXtUMgUiedH-6" target="1udJKJLeAIXtUMgUiedH-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -218,19 +221,19 @@
           <mxGeometry x="191.25" y="900" width="97.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1udJKJLeAIXtUMgUiedH-15" value="DUNKERQUE&#xa;40 salariés" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontStyle=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="40" y="230" width="360" height="240" as="geometry" />
+          <mxGeometry x="40" y="250" width="360" height="240" as="geometry" />
         </mxCell>
         <mxCell id="1udJKJLeAIXtUMgUiedH-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1udJKJLeAIXtUMgUiedH-16" target="1udJKJLeAIXtUMgUiedH-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1udJKJLeAIXtUMgUiedH-16" value="Fortigate 200F" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="80" y="280" width="80" height="40" as="geometry" />
+          <mxGeometry x="80" y="300" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1udJKJLeAIXtUMgUiedH-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1udJKJLeAIXtUMgUiedH-17" target="1udJKJLeAIXtUMgUiedH-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="178" y="330" />
-              <mxPoint x="110" y="330" />
+              <mxPoint x="178" y="350" />
+              <mxPoint x="110" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -238,20 +241,20 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1udJKJLeAIXtUMgUiedH-17" value="2x C9300" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="280" y="280" width="70" height="40" as="geometry" />
+          <mxGeometry x="280" y="300" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1udJKJLeAIXtUMgUiedH-18" value="DC Windows 2022&lt;br&gt;DNS, DHCP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="70" y="385" width="100" height="50" as="geometry" />
+          <mxGeometry x="70" y="405" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1udJKJLeAIXtUMgUiedH-19" value="40 Postes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="280" y="395" width="70" height="40" as="geometry" />
+          <mxGeometry x="280" y="415" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1udJKJLeAIXtUMgUiedH-20" value="LE HAVRE&#xa;60 salariés" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontStyle=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="870" y="520" width="729" height="600" as="geometry" />
+          <mxGeometry x="880" y="520" width="760" height="600" as="geometry" />
         </mxCell>
         <mxCell id="1udJKJLeAIXtUMgUiedH-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1udJKJLeAIXtUMgUiedH-21" target="1udJKJLeAIXtUMgUiedH-22" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="949" y="590.0000000000002" as="sourcePoint" />
+            <mxPoint x="963" y="590.0000000000002" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1udJKJLeAIXtUMgUiedH-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1udJKJLeAIXtUMgUiedH-22" target="1udJKJLeAIXtUMgUiedH-24" edge="1">
@@ -260,8 +263,8 @@
         <mxCell id="8saoINeLlIuiqUA7A3ma-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1udJKJLeAIXtUMgUiedH-22" target="8saoINeLlIuiqUA7A3ma-65">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1117" y="670" />
-              <mxPoint x="1065" y="670" />
+              <mxPoint x="1131" y="670" />
+              <mxPoint x="1079" y="670" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -269,19 +272,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1udJKJLeAIXtUMgUiedH-22" value="3x&amp;nbsp;C9300" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1099" y="570" width="70" height="40" as="geometry" />
+          <mxGeometry x="1113" y="570" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1udJKJLeAIXtUMgUiedH-24" value="60 Postes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1099" y="685" width="70" height="40" as="geometry" />
+          <mxGeometry x="1113" y="685" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1udJKJLeAIXtUMgUiedH-25" value="MARSEILLE&#xa;40 salariés" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontStyle=1;verticalAlign=top;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="420" y="230" width="360" height="240" as="geometry" />
+          <mxGeometry x="420" y="250" width="340" height="240" as="geometry" />
         </mxCell>
         <mxCell id="1udJKJLeAIXtUMgUiedH-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1udJKJLeAIXtUMgUiedH-26" target="1udJKJLeAIXtUMgUiedH-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1udJKJLeAIXtUMgUiedH-26" value="Fortigate 200F" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="480" y="280" width="80" height="40" as="geometry" />
+          <mxGeometry x="480" y="300" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1udJKJLeAIXtUMgUiedH-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1udJKJLeAIXtUMgUiedH-27" target="1udJKJLeAIXtUMgUiedH-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -289,22 +292,22 @@
         <mxCell id="1udJKJLeAIXtUMgUiedH-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1udJKJLeAIXtUMgUiedH-27" target="1udJKJLeAIXtUMgUiedH-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="657" y="330" />
-              <mxPoint x="520" y="330" />
+              <mxPoint x="657" y="350" />
+              <mxPoint x="520" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="1udJKJLeAIXtUMgUiedH-27" value="2x C9300" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="640" y="280" width="70" height="40" as="geometry" />
+          <mxGeometry x="640" y="300" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1udJKJLeAIXtUMgUiedH-28" value="DC Windows 2022&lt;br&gt;DNS, DHCP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="470" y="385" width="100" height="50" as="geometry" />
+          <mxGeometry x="470" y="405" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1udJKJLeAIXtUMgUiedH-29" value="40 Postes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="640" y="395" width="70" height="40" as="geometry" />
+          <mxGeometry x="640" y="415" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1udJKJLeAIXtUMgUiedH-30" value="20 Télétravailleurs&#xa;Accès TS Web" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1140" y="175" width="120" height="60" as="geometry" />
+          <mxGeometry x="1140" y="365" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1udJKJLeAIXtUMgUiedH-44" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="1udJKJLeAIXtUMgUiedH-3" target="1udJKJLeAIXtUMgUiedH-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -344,12 +347,12 @@
         </mxCell>
         <mxCell id="8saoINeLlIuiqUA7A3ma-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="1udJKJLeAIXtUMgUiedH-21">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="949" y="590.0000000000002" as="sourcePoint" />
-            <mxPoint x="1099" y="590" as="targetPoint" />
+            <mxPoint x="963" y="590.0000000000002" as="sourcePoint" />
+            <mxPoint x="1113" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1udJKJLeAIXtUMgUiedH-21" value="Fortigate 200F" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="929" y="570" width="80" height="40" as="geometry" />
+          <mxGeometry x="943" y="570" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8saoINeLlIuiqUA7A3ma-43" value="3x VM: Exchange 2022 (HA)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6f3ff;strokeColor=#0066cc;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="90" y="970" width="97.5" height="60" as="geometry" />
@@ -358,19 +361,19 @@
           <mxGeometry x="292.5" y="970" width="97.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8saoINeLlIuiqUA7A3ma-65" value="Réseau Disaster Recovery 10.2.0.0/16" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="896" y="765" width="677" height="340" as="geometry" />
+          <mxGeometry x="905" y="750" width="710" height="340" as="geometry" />
         </mxCell>
         <mxCell id="8saoINeLlIuiqUA7A3ma-102" value="10.2.0.10/24" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=11;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="909" y="810" width="330" height="280" as="geometry" />
+          <mxGeometry x="924" y="790" width="330" height="280" as="geometry" />
         </mxCell>
         <mxCell id="8saoINeLlIuiqUA7A3ma-45" value="3x VM: WS 2022 DNS+DHCP (HA)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6f3ff;strokeColor=#0066cc;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="191.25" y="970" width="97.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8saoINeLlIuiqUA7A3ma-48" value="CLOUD (VPS)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=12;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="880" y="170" width="240" height="120" as="geometry" />
+          <mxGeometry x="880" y="360" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="8saoINeLlIuiqUA7A3ma-49" value="2x Proxmox Backup Server (Sync Jobs)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="920" y="205" width="160" height="50" as="geometry" />
+          <mxGeometry x="920" y="395" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1udJKJLeAIXtUMgUiedH-4" value="DMZ Paris&#xa;172.16.255.0/24" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;fontStyle=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="410" y="900" width="280" height="130" as="geometry" />
@@ -385,42 +388,42 @@
           <mxGeometry x="470" y="750" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8saoINeLlIuiqUA7A3ma-55" value="&lt;div&gt;Cluster 3x PROXMOX&lt;/div&gt;&lt;div&gt;(Ceph+CephFS)&lt;/div&gt;&lt;div&gt;10.2.0.30-32&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="994" y="870" width="160" height="50" as="geometry" />
+          <mxGeometry x="1009" y="840" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8saoINeLlIuiqUA7A3ma-56" value="VM: Intranet&#xa;Assur&#39;Courtage&#xa;IIS .NET + SQL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6f3ff;strokeColor=#0066cc;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="921.5" y="940" width="97.5" height="60" as="geometry" />
+          <mxGeometry x="936.5" y="920" width="97.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8saoINeLlIuiqUA7A3ma-57" value="VM: GLPI&#xa;Gestion parc" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6f3ff;strokeColor=#0066cc;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="1129" y="940" width="97.5" height="60" as="geometry" />
+          <mxGeometry x="1144" y="920" width="97.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8saoINeLlIuiqUA7A3ma-58" value="VM: Bureaux&#xa;distants" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6f3ff;strokeColor=#0066cc;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="1025.25" y="940" width="97.5" height="60" as="geometry" />
+          <mxGeometry x="1040.25" y="920" width="97.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8saoINeLlIuiqUA7A3ma-62" value="3x VM: Exchange 2022 (HA)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6f3ff;strokeColor=#0066cc;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="921.5" y="1005" width="97.5" height="60" as="geometry" />
+          <mxGeometry x="936.5" y="985" width="97.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8saoINeLlIuiqUA7A3ma-63" value="VM: GLPI&#xa;Gestion parc" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6f3ff;strokeColor=#0066cc;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="1129" y="1005" width="97.5" height="60" as="geometry" />
+          <mxGeometry x="1144" y="985" width="97.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8saoINeLlIuiqUA7A3ma-64" value="3x VM: WS 2022 DNS+DHCP (HA)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6f3ff;strokeColor=#0066cc;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="1025.25" y="1005" width="97.5" height="60" as="geometry" />
+          <mxGeometry x="1040.25" y="985" width="97.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8saoINeLlIuiqUA7A3ma-87" value="DC Windows 2022&lt;br&gt;DNS, DHCP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="919" y="655" width="100" height="50" as="geometry" />
+          <mxGeometry x="933" y="655" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8saoINeLlIuiqUA7A3ma-92" value="DMZ LE HAVRE10.2.20.0/28" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1273" y="870" width="280" height="130" as="geometry" />
+          <mxGeometry x="1287" y="855" width="280" height="130" as="geometry" />
         </mxCell>
         <mxCell id="8saoINeLlIuiqUA7A3ma-93" value="&lt;div&gt;2x VM:&lt;/div&gt;&lt;div&gt;&amp;nbsp;Exchange 2022&lt;/div&gt;CAS&lt;br&gt;172.16.255.10-11" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1289" y="905" width="120" height="60" as="geometry" />
+          <mxGeometry x="1303" y="890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8saoINeLlIuiqUA7A3ma-94" value="&lt;div&gt;VM:&lt;/div&gt;&lt;div&gt;TS Web&lt;/div&gt;10.2.20.12" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1419" y="905" width="110" height="60" as="geometry" />
+          <mxGeometry x="1433" y="890" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8saoINeLlIuiqUA7A3ma-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1udJKJLeAIXtUMgUiedH-1" target="1udJKJLeAIXtUMgUiedH-26">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="520" y="70" />
+              <mxPoint x="520" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -431,8 +434,19 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="830" y="590" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="840" y="70" />
+              <mxPoint x="840" y="200" />
               <mxPoint x="840" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bI9vLQyd40q4Wb9hfmhY-1" value="&lt;font style=&quot;font-size: 64px;&quot;&gt;Infrastructure Améliorée&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="506" y="10" width="643" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="bI9vLQyd40q4Wb9hfmhY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1udJKJLeAIXtUMgUiedH-1" target="1udJKJLeAIXtUMgUiedH-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="413" y="510" />
+              <mxPoint x="240" y="510" />
             </Array>
           </mxGeometry>
         </mxCell>
