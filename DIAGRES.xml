@@ -731,8 +731,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_SB-Jkg7wneCPBqWvGyY-3" value="CLOUD AZURE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=12;fontStyle=1;verticalAlign=top;" vertex="1" parent="37nK3EsMkUCqxvTV0Um2-1">
-          <mxGeometry x="880" y="200" width="600" height="280" as="geometry" />
+        <mxCell id="_SB-Jkg7wneCPBqWvGyY-3" value="CLOUD AZURE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=12;fontStyle=1;verticalAlign=top;fillStyle=solid;" vertex="1" parent="37nK3EsMkUCqxvTV0Um2-1">
+          <mxGeometry x="880" y="200" width="520" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="_SB-Jkg7wneCPBqWvGyY-4" value="Exchange Online" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6f3ff;strokeColor=#0066cc;fontSize=9;" vertex="1" parent="37nK3EsMkUCqxvTV0Um2-1">
+          <mxGeometry x="920" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_SB-Jkg7wneCPBqWvGyY-5" value="SharePoint Online" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6f3ff;strokeColor=#0066cc;fontSize=9;" vertex="1" parent="37nK3EsMkUCqxvTV0Um2-1">
+          <mxGeometry x="1080" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_SB-Jkg7wneCPBqWvGyY-6" value="OneDrive" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6f3ff;strokeColor=#0066cc;fontSize=9;" vertex="1" parent="37nK3EsMkUCqxvTV0Um2-1">
+          <mxGeometry x="1240" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_SB-Jkg7wneCPBqWvGyY-7" value="Azure AD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6f3ff;strokeColor=#0066cc;fontSize=9;" vertex="1" parent="37nK3EsMkUCqxvTV0Um2-1">
+          <mxGeometry x="1080" y="360" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
