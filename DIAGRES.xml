@@ -164,7 +164,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tWCMHTFjFTY4z665_8qA" name="DIAGRES-J1">
-    <mxGraphModel dx="2435" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1325" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -454,7 +454,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DIAGRES-J2" id="uv5xVTER6iG1uKcMJtT0">
-    <mxGraphModel dx="2922" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1325" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="37nK3EsMkUCqxvTV0Um2-0" />
         <mxCell id="37nK3EsMkUCqxvTV0Um2-1" parent="37nK3EsMkUCqxvTV0Um2-0" />
@@ -644,12 +644,6 @@
         <mxCell id="37nK3EsMkUCqxvTV0Um2-47" value="Fortigate 200F" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="37nK3EsMkUCqxvTV0Um2-1">
           <mxGeometry x="943" y="570" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="37nK3EsMkUCqxvTV0Um2-48" value="3x VM: Exchange 2022 (HA)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6f3ff;strokeColor=#0066cc;fontSize=9;" vertex="1" parent="37nK3EsMkUCqxvTV0Um2-1">
-          <mxGeometry x="90" y="970" width="97.5" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="37nK3EsMkUCqxvTV0Um2-49" value="VM: GLPI&#xa;Gestion parc" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6f3ff;strokeColor=#0066cc;fontSize=9;" vertex="1" parent="37nK3EsMkUCqxvTV0Um2-1">
-          <mxGeometry x="292.5" y="970" width="97.5" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="37nK3EsMkUCqxvTV0Um2-50" value="Réseau Disaster Recovery 10.2.0.0/16" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;verticalAlign=top;" vertex="1" parent="37nK3EsMkUCqxvTV0Um2-1">
           <mxGeometry x="905" y="750" width="710" height="340" as="geometry" />
         </mxCell>
@@ -668,9 +662,6 @@
         <mxCell id="37nK3EsMkUCqxvTV0Um2-55" value="DMZ Paris&#xa;172.16.255.0/24" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;fontStyle=1;verticalAlign=top;" vertex="1" parent="37nK3EsMkUCqxvTV0Um2-1">
           <mxGeometry x="410" y="900" width="280" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="37nK3EsMkUCqxvTV0Um2-56" value="&lt;div&gt;2x VM:&lt;/div&gt;&lt;div&gt;&amp;nbsp;Exchange 2022&lt;/div&gt;CAS&lt;br&gt;172.16.255.10-11" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="37nK3EsMkUCqxvTV0Um2-1">
-          <mxGeometry x="430" y="940" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="37nK3EsMkUCqxvTV0Um2-57" value="&lt;div&gt;VM:&lt;/div&gt;&lt;div&gt;TS Web&lt;/div&gt;172.16.255.20" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="37nK3EsMkUCqxvTV0Um2-1">
           <mxGeometry x="560" y="940" width="110" height="60" as="geometry" />
         </mxCell>
@@ -688,12 +679,6 @@
         </mxCell>
         <mxCell id="37nK3EsMkUCqxvTV0Um2-62" value="VM: Bureaux&#xa;distants" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6f3ff;strokeColor=#0066cc;fontSize=9;" vertex="1" parent="37nK3EsMkUCqxvTV0Um2-1">
           <mxGeometry x="1040.25" y="920" width="97.5" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="37nK3EsMkUCqxvTV0Um2-63" value="3x VM: Exchange 2022 (HA)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6f3ff;strokeColor=#0066cc;fontSize=9;" vertex="1" parent="37nK3EsMkUCqxvTV0Um2-1">
-          <mxGeometry x="936.5" y="985" width="97.5" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="37nK3EsMkUCqxvTV0Um2-64" value="VM: GLPI&#xa;Gestion parc" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6f3ff;strokeColor=#0066cc;fontSize=9;" vertex="1" parent="37nK3EsMkUCqxvTV0Um2-1">
-          <mxGeometry x="1144" y="985" width="97.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="37nK3EsMkUCqxvTV0Um2-65" value="3x VM: WS 2022 DNS+DHCP (HA)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6f3ff;strokeColor=#0066cc;fontSize=9;" vertex="1" parent="37nK3EsMkUCqxvTV0Um2-1">
           <mxGeometry x="1040.25" y="985" width="97.5" height="60" as="geometry" />
