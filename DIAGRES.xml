@@ -185,7 +185,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tWCMHTFjFTY4z665_8qA" name="DIAGRES2">
-    <mxGraphModel dx="1325" dy="2273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1559" dy="2468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -500,13 +500,13 @@
         <mxCell id="8saoINeLlIuiqUA7A3ma-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.625;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.575;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1udJKJLeAIXtUMgUiedH-1" target="8saoINeLlIuiqUA7A3ma-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8saoINeLlIuiqUA7A3ma-92" value="DMZ LE HAVRE10.2.20.0/29" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="8saoINeLlIuiqUA7A3ma-92" value="DMZ LE HAVRE10.2.20.0/28" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1644" y="590" width="280" height="130" as="geometry" />
         </mxCell>
         <mxCell id="8saoINeLlIuiqUA7A3ma-93" value="&lt;div&gt;2x VM:&lt;/div&gt;&lt;div&gt;&amp;nbsp;Exchange 2022&lt;/div&gt;CAS&lt;br&gt;172.16.255.10-11" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1660" y="625" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8saoINeLlIuiqUA7A3ma-94" value="&lt;div&gt;VM:&lt;/div&gt;&lt;div&gt;TS Web&lt;/div&gt;10.2.255.20" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="8saoINeLlIuiqUA7A3ma-94" value="&lt;div&gt;VM:&lt;/div&gt;&lt;div&gt;TS Web&lt;/div&gt;10.2.20.12" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1790" y="625" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
