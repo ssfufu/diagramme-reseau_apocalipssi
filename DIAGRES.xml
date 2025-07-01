@@ -454,7 +454,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DIAGRES-J2" id="uv5xVTER6iG1uKcMJtT0">
-    <mxGraphModel dx="2064" dy="1577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1445" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="37nK3EsMkUCqxvTV0Um2-0" />
         <mxCell id="37nK3EsMkUCqxvTV0Um2-1" parent="37nK3EsMkUCqxvTV0Um2-0" />
@@ -730,6 +730,9 @@
               <mxPoint x="240" y="510" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_SB-Jkg7wneCPBqWvGyY-3" value="CLOUD AZURE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=12;fontStyle=1;verticalAlign=top;" vertex="1" parent="37nK3EsMkUCqxvTV0Um2-1">
+          <mxGeometry x="880" y="200" width="600" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
