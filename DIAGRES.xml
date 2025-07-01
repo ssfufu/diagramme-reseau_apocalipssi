@@ -689,11 +689,8 @@
         <mxCell id="37nK3EsMkUCqxvTV0Um2-67" value="DMZ LE HAVRE10.2.20.0/28" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;fontStyle=1;verticalAlign=top;" vertex="1" parent="37nK3EsMkUCqxvTV0Um2-1">
           <mxGeometry x="1287" y="855" width="280" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="37nK3EsMkUCqxvTV0Um2-68" value="&lt;div&gt;2x VM:&lt;/div&gt;&lt;div&gt;&amp;nbsp;Exchange 2022&lt;/div&gt;CAS&lt;br&gt;172.16.255.10-11" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="37nK3EsMkUCqxvTV0Um2-1">
-          <mxGeometry x="1303" y="890" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="37nK3EsMkUCqxvTV0Um2-69" value="&lt;div&gt;VM:&lt;/div&gt;&lt;div&gt;TS Web&lt;/div&gt;10.2.20.12" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="37nK3EsMkUCqxvTV0Um2-1">
-          <mxGeometry x="1433" y="890" width="110" height="60" as="geometry" />
+          <mxGeometry x="1372" y="890" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="37nK3EsMkUCqxvTV0Um2-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="37nK3EsMkUCqxvTV0Um2-1" source="37nK3EsMkUCqxvTV0Um2-4" target="37nK3EsMkUCqxvTV0Um2-34">
           <mxGeometry relative="1" as="geometry">
