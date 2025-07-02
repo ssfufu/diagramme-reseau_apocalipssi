@@ -869,7 +869,7 @@
         <mxCell id="OWxR9zWCZjNrAi_IqhWj-23" value="&lt;strong&gt;1x USW-Pro-24-PoE&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="OWxR9zWCZjNrAi_IqhWj-1">
           <mxGeometry x="185" y="300" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OWxR9zWCZjNrAi_IqhWj-24" value="DC Windows 2022&lt;br&gt;DNS, DHCP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="OWxR9zWCZjNrAi_IqhWj-1">
+        <mxCell id="OWxR9zWCZjNrAi_IqhWj-24" value="2x DC Windows 2022&lt;br&gt;DNS, DHCP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="OWxR9zWCZjNrAi_IqhWj-1">
           <mxGeometry x="70" y="415" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OWxR9zWCZjNrAi_IqhWj-25" value="40 Postes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="OWxR9zWCZjNrAi_IqhWj-1">
@@ -924,7 +924,7 @@
         <mxCell id="OWxR9zWCZjNrAi_IqhWj-38" value="1x USW-Pro-24-PoE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="OWxR9zWCZjNrAi_IqhWj-1">
           <mxGeometry x="555" y="300" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OWxR9zWCZjNrAi_IqhWj-39" value="DC Windows 2022&lt;br&gt;DNS, DHCP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="OWxR9zWCZjNrAi_IqhWj-1">
+        <mxCell id="OWxR9zWCZjNrAi_IqhWj-39" value="2x DC Windows 2022&lt;br&gt;DNS, DHCP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="OWxR9zWCZjNrAi_IqhWj-1">
           <mxGeometry x="450" y="405" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OWxR9zWCZjNrAi_IqhWj-40" value="40 Postes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="OWxR9zWCZjNrAi_IqhWj-1">
@@ -954,7 +954,7 @@
         <mxCell id="OWxR9zWCZjNrAi_IqhWj-48" value="1x UDM-Pro" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="OWxR9zWCZjNrAi_IqhWj-1">
           <mxGeometry x="943" y="570" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OWxR9zWCZjNrAi_IqhWj-49" value="Réseau Disaster Recovery 10.2.0.0/16" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;verticalAlign=top;" vertex="1" parent="OWxR9zWCZjNrAi_IqhWj-1">
+        <mxCell id="OWxR9zWCZjNrAi_IqhWj-49" value="Réseau 10.2.0.0/16" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;verticalAlign=top;" vertex="1" parent="OWxR9zWCZjNrAi_IqhWj-1">
           <mxGeometry x="905" y="810" width="710" height="280" as="geometry" />
         </mxCell>
         <mxCell id="OWxR9zWCZjNrAi_IqhWj-50" value="10.2.0.10/24" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=11;fontStyle=1;verticalAlign=top;" vertex="1" parent="OWxR9zWCZjNrAi_IqhWj-1">
